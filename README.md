@@ -257,6 +257,7 @@ body {
 ## OUTPUT:
 ![Screenshot (35)](https://github.com/BalaSathiesh/standard-calculator/assets/128462891/793358b3-0713-4e54-b53e-0f5113f25523)!
 [Screenshot (35)](https://github.com/BalaSathiesh/standard-calculator/assets/128462891/dee949ae-5446-4632-99f0-0ba98131e809)
+![image](https://github.com/BalaSathiesh/standard-calculator/assets/128462891/517e132f-c2d6-456c-ac34-0785496d3450)
 
 
 
