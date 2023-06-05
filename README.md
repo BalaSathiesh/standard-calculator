@@ -21,7 +21,7 @@ Step 7: Validate the HTML and CSS code.
 
 Step 8: Publish the website in the given URL.
 PROGRAM :
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -253,7 +253,7 @@ body {
 </style>
 
 
-
+```
 ## OUTPUT:
 ![Screenshot (35)](https://github.com/BalaSathiesh/standard-calculator/assets/128462891/793358b3-0713-4e54-b53e-0f5113f25523)!
 [Screenshot (35)](https://github.com/BalaSathiesh/standard-calculator/assets/128462891/dee949ae-5446-4632-99f0-0ba98131e809)
